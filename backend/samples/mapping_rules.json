@@ -1,0 +1,4 @@
+[
+  {"action": "rename", "source": "sku", "target": "product_code"},
+  {"action": "set_default", "target": "active", "value": true}
+]

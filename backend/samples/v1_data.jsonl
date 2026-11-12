@@ -1,0 +1,5 @@
+{"sku": "SKU-001", "qty": 2, "price": 10, "tags": ["sale"], "day": "2026-11-13"}
+{"sku": "SKU-002", "qty": 1, "price": null, "tags": [], "day": "2026-02-30"}
+{"sku": "SKU-003", "qty": 1, "price": "99.999", "tags": []}
+{"qty": 1, "price": "1.00", "tags": []}
+{"sku": "SKU-005", "qty": "1", "price": "1.00", "tags": []}
